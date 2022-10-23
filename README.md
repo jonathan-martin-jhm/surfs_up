@@ -5,11 +5,11 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results 
 
-> The mean temperatures in Oahu is similar in the months of June and December with mean temperatures of 75*F and 71*F, respectively
+> The mean temperatures in Oahu is similar in the months of June and December with mean temperatures of 75 F and 71 F, respectively
 
-> The max temperatures are also similar in June and December with upper temperatures reaching 85*F and 83*F, repectively.
+> The max temperatures are also similar in June and December with upper temperatures reaching 85 F and 83 F, repectively.
 
-> The main difference between the months of June and December is the minimum temperatures reached. June had a minimum temperature of 64*F and December had 56*F.
+> The main difference between the months of June and December is the minimum temperatures reached. June had a minimum temperature of 64 F and December had 56 F.
 
 ![June_Temps](https://github.com/jonathan-martin-jhm/surfs_up/blob/main/June_Temps.png)
 
